@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@doist/todoist-api-typescript": "^2.0.3",
+    "@notionhq/client": "^2.2.0"
+  }
+}
